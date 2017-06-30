@@ -1,4 +1,4 @@
-#Jim Vargas Painting Figures
+#Jim Vargas Painting Figures, non OOP
 
 import sys
 import math
